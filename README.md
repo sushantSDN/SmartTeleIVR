@@ -82,12 +82,7 @@
 ## Related References and Documentation
 
 - **Twilio IVR Tutorial**: [Build Interactive Voice Response (IVR) Phone Tree](https://www.twilio.com/docs/voice/tutorials/build-interactive-voice-response-ivr-phone-tree/csharp#send-caller-input-to-the-intended-route)
-- **Twilio IVR Phone Tree Example (C#)**: [TwilioDevEd/ivr-phone-tree-csharp](https://github.com/TwilioDevEd/ivr-phone-tree-csharp.git)
-
-### Other Useful Repositories:
-
-- [Twilio C# Examples](https://github.com/TwilioDevEd/twilio-csharp) - A collection of C# samples demonstrating Twilio's capabilities.
-- [Twilio API Examples](https://github.com/TwilioDevEd/quickstart-csharp) - Quickstart projects to get up and running with Twilio's API.
+- **Twilio IVR Phone Tree Example (C#)**: [TwilioDevEd/ivr-phone-tree-csharp GitHub Repository](https://github.com/TwilioDevEd/ivr-phone-tree-csharp.git)
 
 ## License
 
